@@ -17,5 +17,5 @@ of gene and reaction additions and of regulatory interventions are available for
 modules. The package uses state-of-the art preprocessing methods, supports CPLEX,
 Gurobi, GLPK and SCIP and provides a number of enhanced tools for analyzing computed 
 intervention strategies, for example, 2D and 3D plots of user-selected metabolic 
-fluxes and yields. Furthermore, a user-friendlyGUI-based interface for the 
+fluxes and yields. Furthermore, a user-friendly, GUI-based interface for the 
 StrainDesign package has been implemented in the metabolic modeling software CNApy.
